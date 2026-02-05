@@ -1,0 +1,11 @@
+yt-dlp
+google-api-python-client
+rich
+isodate
+pyinstaller
+imageio-ffmpeg
+pyfiglet
+mutagen
+numpy
+pyaudio
+speedtest-cli
