@@ -11,27 +11,27 @@ Note: This is a vibe-coded project (meaning it’s not written entirely from scr
 ## Installation
 Get youtube api from this: https://console.cloud.google.com/marketplace/product/google/youtube.googleapis.com?project=level-nimbus-455904-j0
 ARCH LINUX
-'''shell
+```shell
 yay -S yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli python
-'''
+```
 
 WINDOWS
 You must install python 3.10+ first then use the command below (Powershell).
-'''shell
+```shell
 winget install yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli
-'''
+```
 
 ## RUN
 Giving file permission (Only for linux)
-'''shell
+```shell
 chmod +x run.sh
-'''
+```
 
 Run file 
 Linux 
-'''shell
+```shell
 ./run.sh
-'''
+```
 
 Windows
 Just open run.bat and you are done!
