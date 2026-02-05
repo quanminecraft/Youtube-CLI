@@ -34,7 +34,6 @@ chmod +x run.sh
 ```
 
 Run file 
-
 <br>
 
 Linux 
@@ -42,7 +41,6 @@ Linux
 ./run.sh
 ```
 <br>
-
 Windows
 <br>
 
