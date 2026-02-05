@@ -17,16 +17,15 @@ ARCH LINUX
 yay -S yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli python
 ```
 
+
 WINDOWS
-<br>
+
 You must install python 3.10+ first then use the command below (Powershell).
 ```shell
 winget install yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli
 ```
 
 ## RUN
-
-<br>
 
 Giving file permission (Only for linux)
 ```shell
@@ -40,9 +39,8 @@ Linux
 ```shell
 ./run.sh
 ```
-<br>
 Windows
-<br>
+
 
 Just open run.bat and you are done!
 
