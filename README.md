@@ -10,6 +10,8 @@ Note: This is a vibe-coded project (meaning it’s not written entirely from scr
 
 ## Installation
 Get youtube api from this: https://console.cloud.google.com/marketplace/product/google/youtube.googleapis.com?project=level-nimbus-455904-j0
+<br>
+
 ARCH LINUX
 ```shell
 yay -S yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli python
