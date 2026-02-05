@@ -46,10 +46,7 @@ WINDOWS
 
 You must install python 3.10+ first then use the command below (Powershell).
 ```shell
-pip install yt-dlp google-api-python-client rich isodate 
-```
-```shell
-pip install pyinstaller imageio-ffmpeg pyfiglet mutagen numpy speedtest-cli
+pip install yt-dlp google-api-python-client rich isodate pyinstaller imageio-ffmpeg pyfiglet mutagen numpy speedtest-cli
 ```
 
 ## RUN
