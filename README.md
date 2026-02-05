@@ -25,6 +25,7 @@ winget install yt-dlp python-google-api-python-client rich-cli python-isodate py
 ```
 
 ## RUN
+
 <br>
 
 Giving file permission (Only for linux)
@@ -33,6 +34,7 @@ chmod +x run.sh
 ```
 
 Run file 
+
 <br>
 
 Linux 
@@ -42,5 +44,7 @@ Linux
 <br>
 
 Windows
+<br>
+
 Just open run.bat and you are done!
 
