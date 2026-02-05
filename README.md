@@ -18,6 +18,7 @@ yay -S yt-dlp python-google-api-python-client rich-cli python-isodate pyinstalle
 ```
 
 WINDOWS
+<br>
 You must install python 3.10+ first then use the command below (Powershell).
 ```shell
 winget install yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli
