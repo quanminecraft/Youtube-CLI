@@ -38,7 +38,7 @@ Note: This is a vibe-coded project (meaning it’s not written entirely from scr
 
 ARCH LINUX
 ```shell
-yay -S yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli python
+yay -S yt-dlp python-google-api-python-client rich-cli python-isodate pyinstaller python-imageio-ffmpeg python-pyfiglet python-mutagen python-numpy python-pyaudio speedtest-cli python mpv
 ```
 
 
@@ -47,6 +47,10 @@ WINDOWS
 You must install python 3.10+ first then use the command below (Powershell).
 ```shell
 pip install yt-dlp google-api-python-client rich isodate pyinstaller imageio-ffmpeg pyfiglet mutagen numpy speedtest-cli
+```
+Install mpv
+```shell
+winget install mpv
 ```
 
 ## RUN
